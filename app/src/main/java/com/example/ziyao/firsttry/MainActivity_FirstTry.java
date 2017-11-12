@@ -8,7 +8,6 @@ public class MainActivity_FirstTry extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         setContentView(R.layout.activity_main__first_try);
     }
 }
